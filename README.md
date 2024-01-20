@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## This UI is not Responsive
+<h3 align="left">This UI is not Responsive</h3>
+<p dir = "auto">
+A nice clean Portfolio Website for Designer or developers. Which includes almost everything that you want to show. At first, your name and a big picture. Then the About section shows more info about you with a cool experience card. Then the list of Services that you offer. It also has a hire me card then it also has a section where it shows some recent work, then what your clients say about you. At the bottom contact me form.
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3 align="left">Protfolio Website Final UI</h3>
