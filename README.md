@@ -1,8 +1,8 @@
-# my_portfolio
+# A Portfolio Website - Flutter Web
 
 A new Flutter project.
 
-## Getting Started
+## This UI is not Responsive
 
 This project is a starting point for a Flutter application.
 
